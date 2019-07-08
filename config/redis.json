@@ -1,0 +1,5 @@
+{
+   "RedisHost": "0.0.0.0",
+   "RedisPort": "6379",
+   "RedisDbNum": 2
+}
